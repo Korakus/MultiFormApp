@@ -1,0 +1,63 @@
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe.config
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.pdb
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csprojResolveAssemblyReference.cache
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.About.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Calculator.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.DragAndDrop.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Form1.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.PictureViewer.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Properties.Resources.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WebBrowser.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WordProcessor.resources
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csproj.GenerateResource.Cache
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.exe
+Z:\Organised\Programming\Assignments\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.pdb
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe.config
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.exe
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.pdb
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.pdb
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csprojResolveAssemblyReference.cache
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.About.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Calculator.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.DragAndDrop.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Form1.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.PictureViewer.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Properties.Resources.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WebBrowser.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WordProcessor.resources
+D:\Collage\Programming\Gui\GUI Skills 1\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csproj.GenerateResource.Cache
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe.config
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.exe
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.pdb
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.pdb
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csprojResolveAssemblyReference.cache
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.About.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Calculator.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.DragAndDrop.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Form1.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.PictureViewer.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Properties.Resources.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WebBrowser.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WordProcessor.resources
+Z:\Organised\Programming\Assignments\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csproj.GenerateResource.Cache
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe.config
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.exe
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.pdb
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.pdb
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csprojResolveAssemblyReference.cache
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.About.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Calculator.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.DragAndDrop.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Form1.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.PictureViewer.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.Properties.Resources.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WebBrowser.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.WordProcessor.resources
+D:\Collage\Programming\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.csproj.GenerateResource.Cache
+D:\Collage\Programming\GUI\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\bin\Debug\SkillsDemonstration1.exe.config
+D:\Collage\Programming\GUI\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.exe
+D:\Collage\Programming\GUI\MultiFormApplication\SkillsDemonstration1\SkillsDemonstration1\obj\Debug\SkillsDemonstration1.pdb
